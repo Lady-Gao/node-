@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0efca3"],{"9a38":function(n,e,a){"use strict";a.r(e);var c=a("ed08");e.default={actions:{queryVehicleBrandInfoList:function(n,e){return n.commit,Object(c.b)({url:c.a.commonPath+"vehicleBrand/queryVehicleBrandInfoList.do",params:e})}}}}}]);
